@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'LSRouter'
+  s.name             = 'CategoryPropertyDynamicSupport'
   s.version          = '1.1.0'
   s.summary          = 'CategoryPropertyDynamicSupport create by ArthurShuai'
 
